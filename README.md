@@ -18,6 +18,8 @@ You only have to edit following files in order to get the required output:
 1. components/Carousel.css
 2. components/Carousel.jsx
 
+All the images are already imported in data/CarouselData.jsx. 
+
 We will be using our `classes` knowledge to implement this image carousel.
 
 ### Problem Statement:
